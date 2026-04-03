@@ -1,0 +1,15 @@
+.shop{
+    width: 100%;
+    min-height: 100vh;
+}
+.heading{
+    text-align: center;
+    color: rgb(28, 34, 41);
+    font-size: 4vmax;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 15px;
+}
